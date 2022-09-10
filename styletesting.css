@@ -1,0 +1,10 @@
+body{
+  background: gold;
+  color: white;
+  filter: blur(10px);
+}
+.btn{
+  color: blue;
+  font-family: serif;
+  border-radius: 5px
+}
